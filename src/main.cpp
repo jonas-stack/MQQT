@@ -9,6 +9,10 @@ const int mqttPort = 1883;
 const char* mqttUser = "3CsaLQcbO01Qxi0Hlto2nW6gVPz2jqYfHdDPFojGaZNi2oKhaTejHLllIi6FXl9U";
 const char* mqttPassword = "";
 
+
+
+
+
 WiFiClient espClient;
 PubSubClient client(espClient);
 
