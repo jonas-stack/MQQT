@@ -10,7 +10,7 @@ const char* mqttUser = "3CsaLQcbO01Qxi0Hlto2nW6gVPz2jqYfHdDPFojGaZNi2oKhaTejHLll
 const char* mqttPassword = "";
 
 
-
+//dette er en kommentar, da jeg tester mit commit til git
 
 
 WiFiClient espClient;
